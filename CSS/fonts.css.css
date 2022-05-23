@@ -25,9 +25,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-facebook2:before {
-  content: "\ea91";
-}
 .icon-instagram:before {
   content: "\ea92";
 }
